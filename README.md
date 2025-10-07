@@ -46,8 +46,8 @@ Recruiters and hiring managers can quickly assess supply chain performance and i
 ## Contact
 If you’re interested in a short walkthrough or a tailored explanation of the DAX logic I used, I’m happy to demo the dashboard or share the key measures.
 
-**Email:** your.email@example.com  
-**LinkedIn / GitHub:** (link to your profiles)
+**Email:** vikshisam@gmail.com  
+**LinkedIn / GitHub:** https://www.linkedin.com/in/vikash-r-7605a2140/
 
 ---
 
