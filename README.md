@@ -27,12 +27,6 @@ Recruiters and hiring managers can quickly assess supply chain performance and i
 
 ---
 
-## Business impact (example phrasing — replace with your verified results)
-- Recommended reorder-policy changes and prioritized top 10 slow-moving SKUs — estimated **\<X% reduction in stockouts\>** (replace with validated figure).  
-- Reduced reporting time by delivering a single dashboard for weekly ops reviews (replaced 3 manual reports).  
-- Identified regions with highest transportation costs enabling targeted negotiations with carriers.
-
----
 
 ## Files in this repo
 - `report/Inventory and Supply Chain Management Analysis.pbix` — Power BI Desktop file (open in Power BI Desktop).  
