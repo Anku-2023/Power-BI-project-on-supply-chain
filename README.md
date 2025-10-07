@@ -1,15 +1,13 @@
 # Inventory & Supply Chain Management Analysis — Power BI
 
-**TL;DR:** Interactive Power BI dashboard that visualizes inventory, lead time, and stockout risk across SKUs and regions to support data-driven reorder decisions and weekly operations reviews.
-
-![dashboard preview](assets/dashboard.png)
+Interactive Power BI dashboard that visualizes inventory, lead time, and stockout risk across SKUs and regions to support data-driven reorder decisions and weekly operations reviews.
 
 ---
 
 ## Why this project matters
 Recruiters and hiring managers can quickly assess supply chain performance and identify operational levers — e.g., which SKUs to reprioritize, which regions face the highest stockout risk, and where transportation cost reductions are possible. The dashboard turns raw order & inventory data into clear KPIs and stakeholder-ready visuals.
 
-**Quick view:** static export available — `exports/report.pdf`. :contentReference[oaicite:0]{index=0}
+
 
 ---
 
@@ -42,19 +40,6 @@ Recruiters and hiring managers can quickly assess supply chain performance and i
 - `assets/` — screenshot(s) used in README and documentation.  
 - `data/sample_data.csv` — anonymized sample data (if included).  
 - `README.md` — this file.
-
----
-
-## How a reviewer / hiring manager can view this
-1. Open `exports/report.pdf` for a quick static review (no Power BI needed). :contentReference[oaicite:2]{index=2}  
-2. To interact with the live report, download the `.pbix` and open in **Power BI Desktop (Windows)**.  
-3. If the `.pbix` is large or contains sensitive data, see the `assets/` screenshots for visuals and the `data/sample_data.csv` for reproducibility.
-
----
-
-## Notes on data & privacy
-- No confidential customer identifiers are included in this repo. If the original dataset contained sensitive columns, they were removed or anonymized in `data/sample_data.csv`.  
-- If you need access to the full `.pbix` with original data, contact me directly (see contact below).
 
 ---
 
