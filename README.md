@@ -44,8 +44,7 @@ If you’re interested in a short walkthrough or a tailored explanation of the D
 **LinkedIn / GitHub:** https://www.linkedin.com/in/vikash-r-7605a2140/
 
 ---
-
-*Suggested one-line résumé title to paste next to this repo link:*  
+  
 **Inventory & Supply Chain Analytics — Power BI (interactive dashboard & KPI reporting)**
 
 
