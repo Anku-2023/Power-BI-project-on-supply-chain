@@ -30,9 +30,9 @@ Recruiters and hiring managers can quickly assess supply chain performance and i
 
 ## Files in this repo
 - `report/Inventory and Supply Chain Management Analysis.pbix` — Power BI Desktop file (open in Power BI Desktop).  
-- `exports/report.pdf` — static export for quick review. :contentReference[oaicite:1]{index=1}  
-- `assets/` — screenshot(s) used in README and documentation.  
-- `data/sample_data.csv` — anonymized sample data (if included).  
+- `exports/report.pdf` — static export for quick review. 
+- `assets/` — screenshot used in README and documentation.  
+- `data/sample_data.csv` — anonymized sample data .  
 - `README.md` — this file.
 
 ---
